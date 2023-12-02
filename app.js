@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
       <title>쇼핑몰 홈</title>
     </head>
     <body>
-      <h1>Welcome to our Shopping Mall</h1>
+      <h1>Welcome to our Shopping Mall!!</h1>
       <ul>
         <li>Product 1 - $10</li>
         <li>Product 2 - $20</li>
